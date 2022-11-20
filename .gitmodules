@@ -1,3 +1,6 @@
 [submodule "Apios"]
 	path = Apios
 	url = /home/chilling/Documents/SQ-Labs/Livrable/Apios
+[submodule "Clepios"]
+	path = Clepios
+	url = /home/chilling/Documents/SQ-Labs/Livrable/Clepios
